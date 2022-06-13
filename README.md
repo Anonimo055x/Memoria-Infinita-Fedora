@@ -1,5 +1,10 @@
 # Memoria-Infinita-Fedora
 
+
+<a href="https://ibb.co/k8bfnHJ"><img src="https://i.ibb.co/hWQj57c/Untitled.png" alt="Untitled" border="0"></a>
+
+
+
 Sistema com memoria infinita comprimida a zero para maquina virtual...
 
 Demonstracao:
