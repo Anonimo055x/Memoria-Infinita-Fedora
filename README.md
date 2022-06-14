@@ -16,6 +16,6 @@ Paypal: matheusmarkting@yahoo.com
 Email: alexsimao055x@gmail.com
 
 Download ISO.
-https://mega.nz/file/NtEFmYYA#Ebp9FftB82XuPqHFC9_NWaRklHgHwX27rJLkK05B5yw
+https://mega.nz/file/19U2ySqS#kIbCMp6cAJm-iGJV8C89IRWAZOZxsf8z8hgMspEaMW4
 
 Use em seu servidor! :)
